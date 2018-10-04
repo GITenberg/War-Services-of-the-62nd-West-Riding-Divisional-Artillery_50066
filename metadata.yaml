@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: War Services of the 62nd West Riding Divisional Artillery
 url: http://www.gutenberg.org/ebooks/50066
